@@ -1,0 +1,6 @@
+{
+  "name": "VRM 律动舞室",
+  "description": "基于 Three.js 与 @pixiv/three-vrm 的实时音乐律动 3D 虚拟角色多舞种编舞应用",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
